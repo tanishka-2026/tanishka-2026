@@ -45,7 +45,7 @@ Currently, I'm focused on strengthening my frontend skills, exploring AI-powered
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
 
 ### Frontend
 
